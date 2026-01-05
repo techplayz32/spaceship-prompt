@@ -85,6 +85,7 @@ if [ -z "$SPACESHIP_PROMPT_ORDER" ]; then
     ocaml          # OCaml section
     vlang          # V section
     zig            # Zig section
+    nim            # Nim section
     purescript     # PureScript section
     erlang         # Erlang section
     gleam          # Gleam section
